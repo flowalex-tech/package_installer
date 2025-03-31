@@ -1,3 +1,4 @@
+# No longer updating this have moved to ansible
 # Linux Package Auto-installer
 
 A fork of [https://www.lilite.co](https://www.lilite.co)
